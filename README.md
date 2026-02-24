@@ -1,5 +1,3 @@
-# Basketball Scoreboard (FPGA, BASYS3, VHDL)
+## Full Report
 
-## Project Report
-
-📄 [Click here to view the full report](EEE102 Project Report.pdf)
+[Open PDF Report](https://github.com/eralpbulut/Basketball-Scoreboard/blob/main/EEE102%20Project%20Report.pdf)
